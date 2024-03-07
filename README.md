@@ -2,7 +2,7 @@
 <p>Welcome to my digital playground! I'm not a ninja or a rockstar; I'm just a web dev who's passionate about crafting amazing experiences with code. 🚀 </p>
 
 ## ⚡ Technologies
-<div align="center" >
+<div align="left" >
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
@@ -12,5 +12,10 @@
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=gruvbox)
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeDat03&hide_progress=true&theme=gruvbox)
+
 ### Happy coding!
