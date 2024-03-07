@@ -1,5 +1,6 @@
-# DatLee is coming!!! 💨💨
+# 👋 Hey, I'm DatLee!
 
+Welcome to my digital playground! I'm not a ninja or a rockstar; I'm just a web developer who's passionate about crafting amazing experiences with code. 🚀
 <!--
 **LeeDat03/LeeDat03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
