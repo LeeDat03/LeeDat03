@@ -13,8 +13,8 @@
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
 	<br>
 	<br>
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=LeeDat03&theme=dark&hide_total_contributions=true&hide_longest_streak=true" alt="Image 1" style="width: 30%;">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox" alt="Image 2" style="width: 30%;">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=LeeDat03&theme=dark&hide_total_contributions=true&hide_longest_streak=true" alt="Image 1" style="width: 40%; height: auto;">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox" alt="Image 2" style="width: 40%; height: auto;">
 </div>
 
 
