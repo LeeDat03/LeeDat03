@@ -11,10 +11,10 @@
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
-	<br>
-	<br>
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=LeeDat03&theme=dark&hide_total_contributions=true&hide_longest_streak=true" alt="Image 1" style="width: 40%; height: auto;">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox" alt="Image 2" style="width: 40%; height: auto;">
+	<br/>
+	<br/>
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=LeeDat03&theme=dark&hide_total_contributions=true&hide_longest_streak=true" alt="Image 1" style="width: 40%; height: 230px;">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox" alt="Image 2" style="width: 40%; height: 230px;">
 </div>
 
 
